@@ -71,7 +71,7 @@ class ForeverAssets
 	}
 
 	public static function generateRating(asset:String, perfectSick:Bool, timing:String, assetModifier:String = 'base', changeableSkin:String = 'default',
-			baseLibrary:String):FlxSprite
+			baseLibrary:String):FlxSprite/hx
 	{
 		var width = 500;
 		var height = 163;
